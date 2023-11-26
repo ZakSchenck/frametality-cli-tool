@@ -1,0 +1,16 @@
+This is FRAMETALITY by Zak Schenck or D7X.
+PROGRAM BUILT IN RUBY LANGUAGE
+
+For a list of all character keys, type "characters --list"
+For a certain character's frame data, type their key
+For a certain move's frame data, type "<character>-<move>-<move type>"
+For a certain move type frame data list, type "<character>-<move>"
+
+The move types are:
+ob: On Block
+oh: On Hit
+ofb: On Flawless Block
+su: Start up
+
+Some move syntax examples are:
+s1, fatalblow, bf2, throw, bf1ex
